@@ -1,0 +1,19 @@
+{
+  "name": "jroc",
+  "version": "0.0.1",
+  "description": "The James River Outdoor Coalition's WordPress website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mrosenberg/jroc.git"
+  },
+  "author": "Matthew Rosenberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrosenberg/jroc/issues"
+  },
+  "homepage": "https://github.com/mrosenberg/jroc#readme"
+}

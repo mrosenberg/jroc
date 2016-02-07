@@ -1,0 +1,25 @@
+{
+  "name": "jroc",
+  "authors": [
+    "Matthew Rosenberg <matt@matthewrosenberg.com>"
+  ],
+  "description": "The WordPress powered James River Outdoor Coalition website",
+  "main": "index.php",
+  "moduleType": [],
+  "keywords": [
+    "outdoors",
+    "river",
+    "James",
+    "River"
+  ],
+  "license": "Copyright 2016 JROC",
+  "homepage": "jroc.net",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
